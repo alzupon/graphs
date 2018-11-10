@@ -34,6 +34,10 @@ Lastly, I did not try to attempt the final question (asking about the shortest p
 
 ### Timeline
 About 2.5 hours on Wednesday 11/7.
-About 1 hour on Thursday 11/8
-About 3 hours on Friday 11/9
+
+About 1 hour on Thursday 11/8.
+
+About 3 hours on Friday 11/9.
+
+Some of the time was devoted to looking up graphs/classes for Python, some spent actually writing, lots spent tweaking/troubleshooting, and some spent documenting/commenting the code.
 
